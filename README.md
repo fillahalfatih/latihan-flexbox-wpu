@@ -26,7 +26,7 @@
 - Visual Studio Code - [Download here](https://code.visualstudio.com/)
 
 ## Screenshot
-![alt text](https://github.com/fillahalfatih/latihan-flexbox-wpu/blob/main/screenshot/latihan-flxbox.png "Preview Latihan Flexbox")
+![alt text](https://github.com/fillahalfatih/latihan-flexbox-wpu/blob/main/screenshot/latihan-flexbox.png "Preview Latihan Flexbox")
 
 ## Author
 - Muhammad Fillah Alfatih - [@fillahalfatih](https://github.com/fillahalfatih)
