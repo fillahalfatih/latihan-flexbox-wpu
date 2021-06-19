@@ -1,6 +1,8 @@
 # Latihan Flexbox
 - Ini adalah web sederhana untuk latihan membuat layout menggunakan properti Flexbox pada CSS
 
+- Live version here - [fillahalfatih.github.io/latihan-flexbox-wpu/](https://fillahalfatih.github.io/latihan-flexbox-wpu/)
+
 - HTML
 ```html
 <div class="container">
